@@ -42,6 +42,7 @@ The dataset was cleaned, processed, and visualized using Excel pivot tables and 
 
 <img width="734" height="436" alt="car sales pivot table" src="https://github.com/user-attachments/assets/03c78529-af9c-4111-bc48-13703cfd8d0b" />
 ---
+
 ### Excel Dashboard
 
 <img width="821" height="436" alt="CAR DATASET(DIANA)" src="https://github.com/user-attachments/assets/d0a49003-9a95-4d10-8ea9-3c8831b62fad" />
