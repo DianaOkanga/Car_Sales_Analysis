@@ -29,3 +29,11 @@ The dataset was cleaned, processed, and visualized using Excel pivot tables and 
 - Transmission & Gender: Male customers slightly outpace females in automatic transmission purchases.
 - Color & Gender: Black cars dominate overall; red cars are more preferred by female buyers.
 - Company: Toyota, Ford, and Honda lead sales among manufacturers.
+---
+## Table Overlay
+| Car_ID       | Date       | Customer Name | Gender | Annual Income | Dealer_Name                          | Company  | Model      | Engine                  | Transmission | Color | Price ($) | Dealer_No  | Body Style | Phone   | Dealer_Region |
+|--------------|------------|---------------|--------|---------------|--------------------------------------|----------|------------|-------------------------|--------------|-------|-----------|------------|------------|---------|---------------|
+| C_CND_000001 | 01/02/2022 | Geraldine     | Male   | 13,500        | Buddy Storbeck's Diesel Service Inc  | Ford     | Expedition | Double Overhead Camshaft| Auto         | Black | 26,000    | 06457-3834 | SUV        | 8264678 | Middletown    |
+| C_CND_000002 | 01/02/2022 | Gia           | Male   | 1,480,000     | C & M Motors Inc                     | Dodge    | Durango    | Double Overhead Camshaft| Auto         | Black | 19,000    | 60504-7114 | SUV        | 6848189 | Aurora        |
+| C_CND_000003 | 01/02/2022 | Gianna        | Male   | 1,035,000     | Capitol KIA                          | Cadillac | Eldorado   | Overhead Camshaft       | Manual       | Red   | 31,500    | 38701-8047 | Passenger  | 7298798 | Greenville    |
+
