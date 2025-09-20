@@ -40,3 +40,4 @@ The dataset was cleaned, processed, and visualized using Excel pivot tables and 
 ## Visualization
 ### Pivot Table
 
+<img width="734" height="436" alt="car sales pivot table" src="https://github.com/user-attachments/assets/03c78529-af9c-4111-bc48-13703cfd8d0b" />
