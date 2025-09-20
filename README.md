@@ -20,7 +20,7 @@ The dataset was cleaned, processed, and visualized using Excel pivot tables and 
 - GitHub → Version control and project documentation
 ---
 ## Data Source
-- Source: www.kaggle.com
+- Source: [www.kaggle.com](www.kaggle.com)
 ---
 ## Key Insights
 - Region: Sales are evenly distributed with no single region dominating.
