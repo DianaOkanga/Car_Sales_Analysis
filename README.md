@@ -37,3 +37,6 @@ The dataset was cleaned, processed, and visualized using Excel pivot tables and 
 | C_CND_000002 | 01/02/2022 | Gia           | Male   | 1,480,000     | C & M Motors Inc                     | Dodge    | Durango    | Double Overhead Camshaft| Auto         | Black | 19,000    | 60504-7114 | SUV        | 6848189 | Aurora        |
 | C_CND_000003 | 01/02/2022 | Gianna        | Male   | 1,035,000     | Capitol KIA                          | Cadillac | Eldorado   | Overhead Camshaft       | Manual       | Red   | 31,500    | 38701-8047 | Passenger  | 7298798 | Greenville    |
 
+## Visualization
+### Pivot Table
+
