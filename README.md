@@ -18,3 +18,14 @@ The dataset was cleaned, processed, and visualized using Excel pivot tables and 
 ## Tools Used
 - Excel → Data cleaning, pivot tables, and dashboard creation
 - GitHub → Version control and project documentation
+---
+## Data Source
+- Source: www.kaggle.com
+---
+## Key Insights
+- Region: Sales are evenly distributed with no single region dominating.
+- Body Type: SUVs lead in sales, while Hardtops and Passenger cars have the least.
+- Engine: Sales are evenly split between Overhead and Double Overhead Camshaft.
+- Transmission & Gender: Male customers slightly outpace females in automatic transmission purchases.
+- Color & Gender: Black cars dominate overall; red cars are more preferred by female buyers.
+- Company: Toyota, Ford, and Honda lead sales among manufacturers.
