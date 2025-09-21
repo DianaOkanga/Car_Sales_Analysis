@@ -66,3 +66,6 @@ FROM dbo.[new car dataset (3)]
 GROUP BY [Body_Style]
 ORDER BY Avg_Price DESC;
 ```
+## Author
+- Name: Diana Okanga
+- Email: [okangadiana@gmail.com](okangadiana@gmail.com)
