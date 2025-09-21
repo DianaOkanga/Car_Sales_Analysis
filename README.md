@@ -69,3 +69,4 @@ ORDER BY Avg_Price DESC;
 ## Author
 - Name: Diana Okanga
 - Email: [okangadiana@gmail.com](okangadiana@gmail.com)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/diana-okanga-31859b250)
