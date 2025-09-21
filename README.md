@@ -48,4 +48,21 @@ The dataset was cleaned, processed, and visualized using Excel pivot tables and 
 <img width="821" height="436" alt="CAR DATASET(DIANA)" src="https://github.com/user-attachments/assets/d0a49003-9a95-4d10-8ea9-3c8831b62fad" />
 ---
 
-## Query Lamguage (SQL)
+## Query Language (SQL)
+
+```SQL
+SELECT * FROM 
+dbo.[new car dataset (3)];
+
+---Retrieve the total number of cars sold by each company---
+SELECT Company, COUNT(Car_id) AS Total_Cars_Sold
+FROM dbo.[new car dataset (3)]
+GROUP BY Company
+ORDER BY Total_Cars_Sold DESC;
+
+---Find the average price of cars sold by each body style---
+SELECT [Body_Style], AVG([Price]) AS Avg_Price
+FROM dbo.[new car dataset (3)]
+GROUP BY [Body_Style]
+ORDER BY Avg_Price DESC;
+```
